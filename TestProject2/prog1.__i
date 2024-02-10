@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" -o "prog1.o" --omf_browse "prog1.crf" --depend "prog1.d" "prog1.c"

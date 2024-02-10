@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "sinewave.o" --strict --scatter "SimpleWavegen.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\SimpleWavegen.map" -o "SimpleWavegen.axf"

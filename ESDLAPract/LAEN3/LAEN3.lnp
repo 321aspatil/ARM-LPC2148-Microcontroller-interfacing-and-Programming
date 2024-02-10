@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\prog.o"
+--strict --scatter ".\LAEN3.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\LAEN3.map" -o .\LAEN3.axf

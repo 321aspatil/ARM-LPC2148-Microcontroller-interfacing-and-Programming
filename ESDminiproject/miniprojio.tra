@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'miniprojio.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"ioprog.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "ioprog.o" --strict --scatter "miniprojio.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\miniprojio.map" -o "miniprojio.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'miniprojio.axf'
+### ADS-LD Command File: 'miniprojio.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'miniprojio.lnp', Handle=0x000006AC
+### Writing '.lnp' file
+### ADS-LD Command file 'miniprojio.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

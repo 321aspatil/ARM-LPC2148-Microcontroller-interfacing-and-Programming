@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'LCDtest8bit.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"lcdtest8bit.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "lcdtest8bit.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x40000000 --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\LCDtest8bit.map" -o "LCDtest8bit.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'LCDtest8bit.axf'
+### ADS-LD Command File: 'LCDtest8bit.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'LCDtest8bit.lnp', Handle=0x000005DC
+### Writing '.lnp' file
+### ADS-LD Command file 'LCDtest8bit.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\prog2.o"
+--strict --scatter ".\FIQ.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\FIQ.map" -o .\FIQ.axf

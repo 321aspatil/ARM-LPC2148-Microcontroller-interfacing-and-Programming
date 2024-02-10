@@ -1,0 +1,144 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\Interrupt\FIQInterruptEg\FIQinterrupt1.uvproj
+Project File Date:  09/05/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=692 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=964 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=964 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(34): warning:  #111-D: statement is unreachable
+fiqintrprog.c(35): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=976 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(34): warning:  #111-D: statement is unreachable
+fiqintrprog.c(35): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=972 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=972 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(32): warning:  #111-D: statement is unreachable
+fiqintrprog.c(33): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=948 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=948 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(8): error:  #130: expected a "{"
+fiqintrprog.c(32): warning:  #111-D: statement is unreachable
+fiqintrprog.c(33): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(32): warning:  #111-D: statement is unreachable
+fiqintrprog.c(33): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=948 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=968 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=968 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(33): warning:  #111-D: statement is unreachable
+fiqintrprog.c(34): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=956 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(27): warning:  #111-D: statement is unreachable
+fiqintrprog.c(28): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=888 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(15): error:  #65: expected a ";"
+fiqintrprog.c(28): warning:  #111-D: statement is unreachable
+fiqintrprog.c(29): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling fiqintrprog.c...
+fiqintrprog.c(28): warning:  #111-D: statement is unreachable
+fiqintrprog.c(29): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=916 RO-data=16 RW-data=0 ZI-data=1256  
+"FIQinterrupt1.axf" - 0 Error(s), 2 Warning(s).

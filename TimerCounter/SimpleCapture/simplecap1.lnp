@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\capprog.o"
+--strict --scatter ".\simplecap1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\simplecap1.map" -o .\simplecap1.axf

@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\prog2.o"
+--strict --scatter ".\PWMProg1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\PWMProg1.map" -o .\PWMProg1.axf

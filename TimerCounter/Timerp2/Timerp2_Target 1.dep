@@ -1,0 +1,4 @@
+Dependencies for Project 'Timerp2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C80E0AC)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\prog3.c)(0x657A5D72)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Philips-o .\prog3.o --omf_browse .\prog3.crf --depend .\prog3.d)
+I (C:\Keil_v4\ARM\Inc\Philips\LPC213X.H)(0x532C1500)

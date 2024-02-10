@@ -1,0 +1,4 @@
+Dependencies for Project 'FlashLED', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C819074)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\FlashLEDs.c)(0x64D1DF0E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" -o "flashleds.o" --omf_browse "flashleds.crf" --depend "flashleds.d")
+I (C:\Keil_v4\ARM\INC\Philips\LPC213X.H)(0x4C8190F2)

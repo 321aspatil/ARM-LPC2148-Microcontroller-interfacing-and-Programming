@@ -1,0 +1,13 @@
+Build target 'Target 1'
+compiling prob4.c...
+prob4.c(38): warning:  #61-D: integer operation result is out of range
+prob4.c(38): warning:  #68-D: integer conversion resulted in a change of sign
+prob4.c(43): warning:  #61-D: integer operation result is out of range
+prob4.c(43): warning:  #68-D: integer conversion resulted in a change of sign
+prob4.c(46): warning:  #61-D: integer operation result is out of range
+prob4.c(46): warning:  #68-D: integer conversion resulted in a change of sign
+prob4.c(49): warning:  #111-D: statement is unreachable
+prob4.c(50): warning:  #1-D: last line of file ends without a newline
+linking...
+Problem4.axf: Error: L6218E: Undefined symbol FIQ_Handler (referred from startup.o).
+Target not created

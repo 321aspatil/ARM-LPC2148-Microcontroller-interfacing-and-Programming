@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "prog.o" --strict --scatter "Example1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Example1.map" -o "Example1.axf"

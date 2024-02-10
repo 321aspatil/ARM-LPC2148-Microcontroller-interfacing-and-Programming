@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'mpt1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"prog2.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "prog2.o" --strict --scatter "mpt1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\mpt1.map" -o "mpt1.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'mpt1.axf'
+### ADS-LD Command File: 'mpt1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'mpt1.lnp', Handle=0x00000C08
+### Writing '.lnp' file
+### ADS-LD Command file 'mpt1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

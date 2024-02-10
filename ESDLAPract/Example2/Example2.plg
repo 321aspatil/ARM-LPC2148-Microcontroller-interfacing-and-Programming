@@ -1,0 +1,159 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\ESDLAPract\Example2\Example2.uvproj
+Project File Date:  10/03/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(59): warning:  #111-D: statement is unreachable
+prog.c(60): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1192 RO-data=16 RW-data=0 ZI-data=1256  
+"Example2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1464 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(59): warning:  #111-D: statement is unreachable
+prog.c(60): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1464 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1464 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(58): warning:  #111-D: statement is unreachable
+prog.c(59): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1464 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(59): warning:  #111-D: statement is unreachable
+prog.c(60): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1472 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(59): warning:  #111-D: statement is unreachable
+prog.c(60): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1476 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(52): warning:  #61-D: integer operation result is out of range
+prog.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(54): warning:  #61-D: integer operation result is out of range
+prog.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(64): warning:  #111-D: statement is unreachable
+prog.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1524 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1524 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(52): warning:  #61-D: integer operation result is out of range
+prog.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(54): warning:  #61-D: integer operation result is out of range
+prog.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(64): warning:  #111-D: statement is unreachable
+prog.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1524 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(52): warning:  #61-D: integer operation result is out of range
+prog.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(54): warning:  #61-D: integer operation result is out of range
+prog.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(64): warning:  #111-D: statement is unreachable
+prog.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1540 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(47): warning:  #61-D: integer operation result is out of range
+prog.c(47): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(51): warning:  #61-D: integer operation result is out of range
+prog.c(51): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(53): warning:  #61-D: integer operation result is out of range
+prog.c(53): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(63): warning:  #111-D: statement is unreachable
+prog.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1536 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(52): warning:  #61-D: integer operation result is out of range
+prog.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(54): warning:  #61-D: integer operation result is out of range
+prog.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(64): warning:  #111-D: statement is unreachable
+prog.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1532 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #61-D: integer operation result is out of range
+prog.c(48): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(53): warning:  #61-D: integer operation result is out of range
+prog.c(53): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(55): warning:  #61-D: integer operation result is out of range
+prog.c(55): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(65): warning:  #111-D: statement is unreachable
+prog.c(66): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1536 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example2.axf" - 0 Error(s), 9 Warning(s).

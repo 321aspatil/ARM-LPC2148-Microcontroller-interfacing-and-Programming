@@ -1,0 +1,4 @@
+Dependencies for Project 'VIRQ', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x65391417)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\prog3.c)(0x653911C3)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" -o "prog3.o" --omf_browse "prog3.crf" --depend "prog3.d")
+I (C:\Keil_v4\ARM\INC\Philips\LPC213X.H)(0x4C80E12A)

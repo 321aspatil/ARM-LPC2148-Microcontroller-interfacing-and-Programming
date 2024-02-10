@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "ioprog.o" --strict --scatter "miniprojio.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\miniprojio.map" -o "miniprojio.axf"

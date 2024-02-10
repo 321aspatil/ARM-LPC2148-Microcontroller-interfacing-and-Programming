@@ -1,0 +1,174 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\ESDLAPract\Problem1\Problem1.uvproj
+Project File Date:  10/01/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(56): error:  #20: identifier "con" is undefined
+problem1.c(56): error:  #65: expected a ";"
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(56): error:  #20: identifier "con" is undefined
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(64): warning:  #111-D: statement is unreachable
+problem1.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1188 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(64): warning:  #111-D: statement is unreachable
+problem1.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1188 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(40): warning:  #61-D: integer operation result is out of range
+problem1.c(40): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(66): warning:  #111-D: statement is unreachable
+problem1.c(67): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1196 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(40): warning:  #61-D: integer operation result is out of range
+problem1.c(40): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(66): warning:  #111-D: statement is unreachable
+problem1.c(67): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1200 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(40): warning:  #61-D: integer operation result is out of range
+problem1.c(40): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(66): warning:  #111-D: statement is unreachable
+problem1.c(67): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1196 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(40): warning:  #61-D: integer operation result is out of range
+problem1.c(40): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(66): warning:  #111-D: statement is unreachable
+problem1.c(67): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1196 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1196 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(64): warning:  #111-D: statement is unreachable
+problem1.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1192 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1124 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(51): error:  #268: declaration may not appear after executable statement in block
+problem1.c(65): warning:  #111-D: statement is unreachable
+problem1.c(66): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling problem1.c...
+problem1.c(37): warning:  #61-D: integer operation result is out of range
+problem1.c(37): warning:  #68-D: integer conversion resulted in a change of sign
+problem1.c(63): warning:  #111-D: statement is unreachable
+problem1.c(64): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"Problem1.axf" - 0 Error(s), 4 Warning(s).

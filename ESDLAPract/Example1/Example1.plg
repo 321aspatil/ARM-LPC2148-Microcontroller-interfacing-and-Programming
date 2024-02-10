@@ -1,0 +1,78 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\ESDLAPract\Example1\Example1.uvproj
+Project File Date:  10/01/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling prog.c...
+LCD.h(71): warning:  #1-D: last line of file ends without a newline
+prog.c(31): error:  #65: expected a ";"
+prog.c(50): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(71): warning:  #61-D: integer operation result is out of range
+prog.c(71): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(73): warning:  #61-D: integer operation result is out of range
+prog.c(73): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(77): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+LCD.h(71): warning:  #1-D: last line of file ends without a newline
+prog.c(31): error:  #65: expected a ";"
+prog.c(50): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(71): warning:  #61-D: integer operation result is out of range
+prog.c(71): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(73): warning:  #61-D: integer operation result is out of range
+prog.c(73): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(77): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+LCD.h(71): warning:  #1-D: last line of file ends without a newline
+prog.c(31): error:  #65: expected a ";"
+prog.c(50): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(71): warning:  #61-D: integer operation result is out of range
+prog.c(71): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(73): warning:  #61-D: integer operation result is out of range
+prog.c(73): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(77): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+LCD.h(71): warning:  #1-D: last line of file ends without a newline
+prog.c(50): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(71): warning:  #61-D: integer operation result is out of range
+prog.c(71): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(73): warning:  #61-D: integer operation result is out of range
+prog.c(73): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(77): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=1780 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example1.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+LCD.h(71): warning:  #1-D: last line of file ends without a newline
+prog.c(50): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #61-D: integer operation result is out of range
+prog.c(60): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(71): warning:  #61-D: integer operation result is out of range
+prog.c(71): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(73): warning:  #61-D: integer operation result is out of range
+prog.c(73): warning:  #68-D: integer conversion resulted in a change of sign
+prog.c(77): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=1820 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"Example1.axf" - 0 Error(s), 9 Warning(s).

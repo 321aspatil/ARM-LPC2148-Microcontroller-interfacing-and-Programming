@@ -1,0 +1,23 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\MuxCCSSD\MuxCCSSD_keil\muxccssd.uvproj
+Project File Date:  08/30/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling prog.c...
+prog.c(22): warning:  #111-D: statement is unreachable
+prog.c(23): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=600 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"muxccssd.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+linking...
+Program Size: Code=600 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"muxccssd.axf" - 0 Error(s), 0 Warning(s).

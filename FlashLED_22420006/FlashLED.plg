@@ -1,0 +1,67 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\EN5_ESD_22420006\FlashLED.uvproj
+Project File Date:  08/07/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling FlashLED.c...
+FlashLED.c(4): warning:  #64-D: declaration does not declare anything
+FlashLED.c(5): error:  #20: identifier "i" is undefined
+FlashLED.c(5): error:  #29: expected an expression
+FlashLED.c(6): error:  #65: expected a ";"
+FlashLED.c(17): warning:  #111-D: statement is unreachable
+FlashLED.c(18): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(4): warning:  #64-D: declaration does not declare anything
+FlashLED.c(5): error:  #20: identifier "i" is undefined
+FlashLED.c(5): error:  #29: expected an expression
+FlashLED.c(6): error:  #65: expected a ";"
+FlashLED.c(17): warning:  #111-D: statement is unreachable
+FlashLED.c(18): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(4): warning:  #64-D: declaration does not declare anything
+FlashLED.c(5): error:  #20: identifier "i" is undefined
+FlashLED.c(17): warning:  #111-D: statement is unreachable
+FlashLED.c(18): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(4): warning:  #64-D: declaration does not declare anything
+FlashLED.c(5): error:  #20: identifier "i" is undefined
+FlashLED.c(17): warning:  #111-D: statement is unreachable
+FlashLED.c(18): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(4): warning:  #64-D: declaration does not declare anything
+FlashLED.c(5): error:  #20: identifier "i" is undefined
+FlashLED.c(17): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+"FlashLED.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(17): warning:  #111-D: statement is unreachable
+FlashLED.c(18): warning:  #1-D: last line of file ends without a newline
+FlashLED.c(18): error:  #65: expected a ";"
+Target not created
+Build target 'Target 1'
+compiling FlashLED.c...
+FlashLED.c(17): warning:  #111-D: statement is unreachable
+FlashLED.c(18): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+"FlashLED.axf" - 0 Error(s), 2 Warning(s).

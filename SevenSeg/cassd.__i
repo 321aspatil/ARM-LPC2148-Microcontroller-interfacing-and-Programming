@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\keil_v4\ARM\INC" -I "C:\keil_v4\ARM\INC\Philips" -o "cassd.o" --omf_browse "cassd.crf" --depend "cassd.d" "cassd.c"

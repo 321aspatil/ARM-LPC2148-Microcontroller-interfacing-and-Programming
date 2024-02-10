@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "problem2.o" --strict --scatter "Problem2.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Problem2.map" -o "Problem2.axf"

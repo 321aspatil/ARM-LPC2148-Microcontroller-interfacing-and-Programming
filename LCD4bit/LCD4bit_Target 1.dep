@@ -1,0 +1,5 @@
+Dependencies for Project 'LCD4bit', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C80E0AC)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\lcd4bit.c)(0x64EEE925)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" -o "lcd4bit.o" --omf_browse "lcd4bit.crf" --depend "lcd4bit.d")
+I (C:\Keil_v4\ARM\INC\Philips\LPC213X.H)(0x4C80E12A)
+I (LCD.h)(0x64EEE880)

@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\ESDLAPract\Example3\Example3.uvproj
+Project File Date:  10/03/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling prog.c...
+prog.c(10): error:  #109: expression must have (pointer-to-) function type
+prog.c(16): error:  #109: expression must have (pointer-to-) function type
+prog.c(23): error:  #29: expected an expression
+prog.c(38): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+prog.c(16): error:  #109: expression must have (pointer-to-) function type
+prog.c(23): error:  #29: expected an expression
+prog.c(38): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+prog.c(23): error:  #29: expected an expression
+prog.c(38): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=680 RO-data=16 RW-data=0 ZI-data=1256  
+"Example3.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(40): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=688 RO-data=16 RW-data=0 ZI-data=1256  
+"Example3.axf" - 0 Error(s), 1 Warning(s).

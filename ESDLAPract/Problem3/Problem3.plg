@@ -1,0 +1,78 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\ESDLAPract\Problem3\Problem3.uvproj
+Project File Date:  10/02/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling prob3.c...
+LCD8.h(48): warning:  #1-D: last line of file ends without a newline
+prob3.c(16): error:  #165: too few arguments in function call
+prob3.c(18): error:  #165: too few arguments in function call
+prob3.c(20): error:  #165: too few arguments in function call
+prob3.c(21): error:  #165: too few arguments in function call
+prob3.c(22): error:  #165: too few arguments in function call
+prob3.c(40): warning:  #61-D: integer operation result is out of range
+prob3.c(40): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(49): error:  #165: too few arguments in function call
+prob3.c(51): error:  #165: too few arguments in function call
+prob3.c(53): error:  #165: too few arguments in function call
+prob3.c(54): error:  #165: too few arguments in function call
+prob3.c(55): error:  #165: too few arguments in function call
+prob3.c(56): warning:  #61-D: integer operation result is out of range
+prob3.c(56): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(57): error:  #165: too few arguments in function call
+prob3.c(58): warning:  #61-D: integer operation result is out of range
+prob3.c(58): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(59): error:  #165: too few arguments in function call
+prob3.c(61): warning:  #111-D: statement is unreachable
+prob3.c(62): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling prob3.c...
+LCD8.h(48): warning:  #1-D: last line of file ends without a newline
+prob3.c(38): warning:  #61-D: integer operation result is out of range
+prob3.c(38): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(52): warning:  #61-D: integer operation result is out of range
+prob3.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(54): warning:  #61-D: integer operation result is out of range
+prob3.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(57): warning:  #111-D: statement is unreachable
+prob3.c(58): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1436 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"Problem3.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prob3.c...
+LCD8.h(48): warning:  #1-D: last line of file ends without a newline
+prob3.c(38): warning:  #61-D: integer operation result is out of range
+prob3.c(38): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(52): warning:  #61-D: integer operation result is out of range
+prob3.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(54): warning:  #61-D: integer operation result is out of range
+prob3.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(57): warning:  #111-D: statement is unreachable
+prob3.c(58): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1432 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"Problem3.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Target 1'
+compiling prob3.c...
+LCD8.h(48): warning:  #1-D: last line of file ends without a newline
+prob3.c(38): warning:  #61-D: integer operation result is out of range
+prob3.c(38): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(52): warning:  #61-D: integer operation result is out of range
+prob3.c(52): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(54): warning:  #61-D: integer operation result is out of range
+prob3.c(54): warning:  #68-D: integer conversion resulted in a change of sign
+prob3.c(57): warning:  #111-D: statement is unreachable
+prob3.c(58): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1436 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"Problem3.axf" - 0 Error(s), 9 Warning(s).

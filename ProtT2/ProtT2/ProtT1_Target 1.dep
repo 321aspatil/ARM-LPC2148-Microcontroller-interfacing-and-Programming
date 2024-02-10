@@ -1,0 +1,7 @@
+Dependencies for Project 'ProtT1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x654F2F4C)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\prog.c)(0x655B4B45)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Philips-o .\prog.o --omf_browse .\prog.crf --depend .\prog.d)
+I (C:\Keil_v4\ARM\Inc\Philips\LPC213x.h)(0x532C1500)
+I (UART.h)(0x654E0735)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7E87C)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7E87C)

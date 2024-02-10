@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\prob3.o"
+--strict --scatter ".\Problem3.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Problem3.map" -o .\Problem3.axf

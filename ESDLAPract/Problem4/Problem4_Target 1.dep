@@ -1,0 +1,4 @@
+Dependencies for Project 'Problem4', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x651ADEDB)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\prob4e2.c)(0x651C408F)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil_v4\ARM\INC" -I "C:\Keil_v4\ARM\INC\Philips" -o "prob4e2.o" --omf_browse "prob4e2.crf" --depend "prob4e2.d")
+I (C:\Keil_v4\ARM\INC\Philips\LPC213X.H)(0x4C80E12A)

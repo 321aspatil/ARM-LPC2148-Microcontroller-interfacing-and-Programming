@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ESDLAB\TimerCounter\CaptureMux7seg\mux7seg.uvproj
+Project File Date:  10/13/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling prog.c...
+prog.c(23): warning:  #223-D: function "delay_ms" declared implicitly
+linking...
+mux7seg.axf: Error: L6218E: Undefined symbol delay_ms (referred from prog.o).
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+linking...
+Program Size: Code=1656 RO-data=32 RW-data=4 ZI-data=1276  
+"mux7seg.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling prog.c...
+prog.c(38): error:  #20: identifier "unsogned" is undefined
+prog.c(38): error:  #65: expected a ";"
+prog.c(40): error:  #65: expected a ";"
+prog.c(46): error:  #20: identifier "i" is undefined
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+prog.c(40): error:  #65: expected a ";"
+Target not created
+Build target 'Target 1'
+compiling prog.c...
+linking...
+Program Size: Code=1736 RO-data=32 RW-data=24 ZI-data=1272  
+"mux7seg.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1736 RO-data=32 RW-data=24 ZI-data=1272  
+FromELF: creating hex file...
+"mux7seg.axf" - 0 Error(s), 0 Warning(s).

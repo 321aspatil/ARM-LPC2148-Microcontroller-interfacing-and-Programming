@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "prob5prog.o" --strict --scatter "Prob5.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Prob5.map" -o "Prob5.axf"

@@ -1,0 +1,6 @@
+Dependencies for Project 'Miniproject', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C80E0AC)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\prog.c)(0x653D01D1)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Philips-o .\prog.o --omf_browse .\prog.crf --depend .\prog.d)
+I (C:\Keil_v4\ARM\INC\Philips\LPC213X.H)(0x532C1500)
+I (LCD4.h)(0x653CF313)
+I (Keypad.h)(0x6555DE11)

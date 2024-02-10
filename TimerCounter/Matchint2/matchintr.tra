@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'matchintr.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"prog.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "prog.o" --strict --scatter "matchintr.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\matchintr.map" -o "matchintr.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'matchintr.axf'
+### ADS-LD Command File: 'matchintr.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'matchintr.lnp', Handle=0x00000660
+### Writing '.lnp' file
+### ADS-LD Command file 'matchintr.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
